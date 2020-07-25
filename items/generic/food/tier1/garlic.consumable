@@ -1,0 +1,27 @@
+{
+    "itemName" : "garlic",
+    "rarity" : "Common",
+    "price" : 50,
+    "category" : "food",
+    "inventoryIcon" : "garlic.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;10;10?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;02000501=9E5B31;02000601=E0C37F;03000101=9E5B31;03000601=FDEEBC;03000701=E0C37F;04000101=E0C37F;04000201=FDEEBC;04000701=FDEEBC;04000801=E0C37F;05000101=E0C37F;05000201=FDEEBC;05000801=FDEEBC;06000201=E0C37F;06000301=FDEEBC;07000301=E0C37F;07000501=E0C37F;07000601=FDEEBC;08000601=E0C37F;08000701=FDEEBC;08000801=FDEEBC;09000701=E0C37F;09000801=E0C37F?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;05000101=E0C37F;06000101=E0C37F;09000101=9E5B31?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Ходят слухи, что помогает при насморке.",
+    "shortdescription" : "Чеснок",
+    "effects" : [ [
+      {
+          "effect" : "maxhealthscalingboostfood",
+          "duration" : 5
+      }
+    ] ],
+    "foodValue" : 10,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 10,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+      "wellfed"
+    ],
+    "learnBlueprintsOnPickup" : [ "toast" ]
+  }
+  

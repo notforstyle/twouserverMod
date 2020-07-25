@@ -1,0 +1,12 @@
+{
+    "author" : "notforstyle",
+    "description" : "TWOU Mod",
+    "friendlyName" : "serverMod",
+    "includes" : [],
+    "name" : "Server Mod",
+    "priority" : -1,
+    "requires" : [],
+    "version" : "1",
+    "link" : "",
+    "steamContentId" : ""
+  }

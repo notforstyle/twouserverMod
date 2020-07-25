@@ -1,0 +1,27 @@
+{
+    "itemName" : "lemon",
+    "rarity" : "Common",
+    "price" : 50,
+    "category" : "food",
+    "inventoryIcon" : "lemon.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;9;9?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;01000501=CCCC0E;02000401=CCCC0E;02000501=E5E510;02000601=CCCC0E;03000301=CCCC0E;03000401=E5E510;03000501=E5E510;03000601=E5E510;03000701=CCCC0E;04000301=CCCC0E;04000401=E5E510;04000501=E5E510;04000601=E5E510;04000701=CCCC0E;05000301=CCCC0E;05000401=E5E510;05000501=E5E510;05000601=E5E510;05000701=CCCC0E;06000301=CCCC0E;06000401=E5E510;06000501=E5E510;06000601=E5E510;06000701=CCCC0E;07000301=CCCC0E;07000401=E5E510;07000501=E5E510;07000601=E5E510;07000701=CCCC0E;08000401=CCCC0E;08000501=E5E510;08000601=CCCC0E;09000501=CCCC0E?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Даже в такое время он кислый, зараза.",
+    "shortdescription" : "Лимон",
+    "effects" : [ [
+      {
+          "effect" : "maxhealthscalingboostfood",
+          "duration" : 5
+      }
+    ] ],
+    "foodValue" : 10,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 10,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+      "wellfed"
+    ],
+    "learnBlueprintsOnPickup" : [ "toast" ]
+  }
+  

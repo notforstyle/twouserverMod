@@ -1,0 +1,27 @@
+{
+    "itemName" : "bakedapple",
+    "rarity" : "Common",
+    "price" : 50,
+    "category" : "preparedFood",
+    "inventoryIcon" : "bakedapple.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;16;16?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;04000601=883305;04000701=873404;04000801=853604;05000501=7A3D03;05000601=A55F30;05000701=A55E30;05000801=A07251;06000401=853504;06000501=A55E30;06000601=A55F30;06000701=BCA18D;06000801=C6988D;07000401=853504;07000501=A55F30;07000601=A55F30;07000701=A07251;07000801=BCA18D;08000401=532208;08000501=A55E30;08000601=A55F30;08000701=A55F30;08000801=A55F30;09000401=843604;09000501=A55F30;09000601=A55F30;09000701=A55F30;09000801=A55F30;10000401=843604;10000501=A55F30;10000601=A55F30;10000701=A55E30;10000801=A55F30;11000501=7A3D03;11000601=A55F30;11000701=A55F30;11000801=A55F30;12000601=532208;12000701=843604;12000801=843604?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;04000101=843604;04000201=853604;05000101=A55E30;05000201=A55E30;05000301=8B3105;06000101=BCA18D;06000201=A55E30;06000301=893305;07000101=A07251;07000201=7E3A04;07000301=704121;08000101=A55F30;08000201=704121;08000301=73512A;08000401=8D6D40;09000101=A55F30;09000201=7A3D03;09000301=704121;09000501=8D6D40;10000101=A55F30;10000201=A55F30;10000301=843604;11000101=A55E30;11000201=7A3D03;11000301=704121;12000101=843604;12000201=704121?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Совет: употреби это как можно быстрее.",
+    "shortdescription" : "Запеченное яблоко",
+    "effects" : [ [
+      {
+          "effect" : "maxhealthscalingboostfood",
+          "duration" : 5
+      }
+    ] ],
+    "foodValue" : 10,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 10,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+      "wellfed"
+    ],
+    "learnBlueprintsOnPickup" : [ "toast" ]
+  }
+  

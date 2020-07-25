@@ -1,0 +1,11 @@
+{
+    "itemName" : "nails",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "nails.png",
+    "description" : "Пригодятся для крафта.",
+    "shortdescription" : "Гвозди",
+    "itemTags" : [ "reagent" ]
+  }
+  

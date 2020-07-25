@@ -1,0 +1,11 @@
+{
+    "itemName" : "spareparts",
+    "price" : 10,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "spareparts.png",
+    "description" : "Обычкновенные железки. Понадобятся для крафта.",
+    "shortdescription" : "Запчасти",
+    "itemTags" : [ "reagent" ]
+  }
+  

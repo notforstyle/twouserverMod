@@ -1,0 +1,11 @@
+{
+    "itemName" : "freshleaves",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "freshleaves.png",
+    "description" : "Свежие листья для чая, можно высушить и заваривать чай.",
+    "shortdescription" : "Чайные листья",
+    "itemTags" : [ "reagent" ]
+  }
+  

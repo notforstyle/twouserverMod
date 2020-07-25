@@ -1,0 +1,27 @@
+{
+    "itemName" : "onion",
+    "rarity" : "Common",
+    "price" : 50,
+    "category" : "food",
+    "inventoryIcon" : "onion.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;9;9?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;01000201=DBDBDB;01000301=DBDBDB;01000701=DBDBDB;01000801=DBDBDB;02000201=DBDBDB;02000401=DBDBDB;02000601=DBDBDB;03000101=DBDBDB;03000401=DBDBDB;03000701=DBDBDB;03000801=DBDBDB;04000201=DBDBDB;04000301=DBDBDB;05000801=DBDBDB;06000201=DBDBDB;06000301=DBDBDB;06000701=DBDBDB;07000201=DBDBDB;07000401=DBDBDB;07000701=DBDBDB;07000801=DBDBDB;08000301=DBDBDB;08000501=DBDBDB;09000401=DBDBDB;09000501=DBDBDB?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;02000101=DBDBDB;03000101=DBDBDB;06000101=DBDBDB?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Нарезанные ломтики лука.",
+    "shortdescription" : "Лук",
+    "effects" : [ [
+      {
+          "effect" : "maxhealthscalingboostfood",
+          "duration" : 5
+      }
+    ] ],
+    "foodValue" : 10,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 10,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+      "wellfed"
+    ],
+    "learnBlueprintsOnPickup" : [ "toast" ]
+  }
+  

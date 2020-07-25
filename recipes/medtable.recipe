@@ -1,0 +1,7 @@
+{
+	"input" : [
+		{"item" : "pixel", "count" : 1}
+	],
+	"output" : {"item" : "medtable", "count" : 1},
+	"groups" : ["all"]
+}

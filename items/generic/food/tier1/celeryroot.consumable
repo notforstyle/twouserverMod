@@ -1,0 +1,27 @@
+{
+    "itemName" : "celeryroot",
+    "rarity" : "Common",
+    "price" : 50,
+    "category" : "food",
+    "inventoryIcon" : "celeryroot.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;9;9?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;01000401=AF9C72;01000501=AF9C72;01000601=AF9C72;02000301=AF9C72;02000401=D0B987;02000501=D0B987;02000601=98662B;02000701=AF9C72;03000201=AF9C72;03000301=98662B;03000401=D0B987;03000501=D0B987;03000601=D0B987;03000701=D0B987;03000801=AF9C72;04000101=AF9C72;04000201=D0B987;04000301=D0B987;04000401=D0B987;04000501=98662B;04000601=D0B987;04000701=D0B987;04000801=D0B987;05000101=AF9C72;05000201=D0B987;05000301=D0B987;05000401=D0B987;05000501=D0B987;05000601=D0B987;05000701=D0B987;05000801=98662B;06000101=AF9C72;06000201=98662B;06000301=D0B987;06000401=D0B987;06000501=D0B987;06000601=D0B987;06000701=D0B987;06000801=D0B987;07000201=C1AC7D;07000301=D0B987;07000401=98662B;07000501=D0B987;07000601=98662B;07000701=D0B987;07000801=C1AC7D;08000301=C1AC7D;08000401=D0B987;08000501=D0B987;08000601=D0B987;08000701=C1AC7D;09000401=C1AC7D;09000501=C1AC7D;09000601=C1AC7D?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;04000101=AF9C72;05000101=C1AC7D;06000101=C1AC7D?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Похож на овсяное печенье Я УВЕРЯЮ ВАС это корень сельдерея.",
+    "shortdescription" : "Корень сельдерея",
+    "effects" : [ [
+      {
+          "effect" : "maxhealthscalingboostfood",
+          "duration" : 5
+      }
+    ] ],
+    "foodValue" : 10,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 10,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+      "wellfed"
+    ],
+    "learnBlueprintsOnPickup" : [ "toast" ]
+  }
+  

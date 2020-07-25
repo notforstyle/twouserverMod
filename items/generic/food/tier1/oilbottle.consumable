@@ -1,0 +1,23 @@
+{
+    "itemName" : "oilbottle",
+    "price" : 20,
+    "rarity" : "Common",
+    "category" : "drink",
+    "inventoryIcon" : "oilbottle.png",
+    "directives": "?replace;fff0=fff?scalenearest=1?crop=0;0;10;20?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;04000401=C1C400;04000501=C1C400;04000601=C1C400;04000701=C1C400;04000801=C1C400;05000401=DCE000;05000501=DCE000;05000601=DCE000;05000701=DCE000;05000801=DCE000;06000401=C1C400;06000501=C1C400;06000601=C1C400;06000701=C1C400;06000801=C1C400?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;04000101=959EA2;05000101=C6D2D4;05000201=D1D800;06000101=959EA2?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Можно пить, но необязательно. Пригодится для крафта.",
+    "shortdescription" : "Подсолнечное масло",
+    "maxStack" : 6,
+    "effects" : [ [
+      {
+        "effect" : "bottledwaterheal",
+        "duration" : 1
+      }
+    ] ],
+    "blockingEffects" : [
+      "bottledwaterheal"
+    ],
+    "emote" : "",
+    "emitters" : [ "drinking" ]
+  }
+  

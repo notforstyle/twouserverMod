@@ -1,0 +1,11 @@
+{
+    "itemName" : "condiment",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "condiment.png",
+    "description" : "Приправа, сделает блюдо вкуснее и без соли.",
+    "shortdescription" : "Приправа",
+    "itemTags" : [ "reagent" ]
+  }
+  

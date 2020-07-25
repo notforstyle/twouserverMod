@@ -1,0 +1,11 @@
+{
+    "itemName" : "electricalparts",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "electricalparts.png",
+    "description" : "220 вольт.",
+    "shortdescription" : "Электрозапчасти",
+    "itemTags" : [ "reagent" ]
+  }
+  

@@ -1,0 +1,11 @@
+{
+    "itemName" : "actea",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "actea.png",
+    "description" : "Достать один из пакетиков, высыпать порошок и заварить. Пригодится для крафта.",
+    "shortdescription" : "Пачка противопростудного чая",
+    "itemTags" : [ "reagent" ]
+  }
+  

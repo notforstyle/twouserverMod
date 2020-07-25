@@ -1,0 +1,11 @@
+{
+    "itemName" : "salt",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "salt.png",
+    "description" : "Без неё вряд-ли выйдет сварить что-то вкусное.",
+    "shortdescription" : "Соль",
+    "itemTags" : [ "reagent" ]
+  }
+  

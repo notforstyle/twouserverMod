@@ -1,0 +1,23 @@
+{
+    "itemName" : "bottlewater",
+    "price" : 20,
+    "rarity" : "Common",
+    "category" : "drink",
+    "inventoryIcon" : "bottlewater.png",
+    "directives": "?replace;fff0=fff?scalenearest=1?crop=0;0;10;20?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;04000401=70B5B8;04000501=70B5B8;04000601=70B5B8;04000701=375DC1;04000801=375DC1;05000401=95DCDE;05000501=95DCDE;05000601=95DCDE;05000701=497DFF;05000801=497DFF;06000401=70B5B8;06000501=70B5B8;06000601=70B5B8;06000701=375DC1;06000801=375DC1?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;04000101=70B5B8;05000101=95DCDE;05000201=497DFF;06000101=70B5B8?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Полная бутылка с водой.",
+    "shortdescription" : "Пластиковая бутылка",
+    "maxStack" : 6,
+    "effects" : [ [
+      {
+        "effect" : "bottledwaterheal",
+        "duration" : 10
+      }
+    ] ],
+    "blockingEffects" : [
+      "bottledwaterheal"
+    ],
+    "emote" : "",
+    "emitters" : [ "drinking" ]
+  }
+  

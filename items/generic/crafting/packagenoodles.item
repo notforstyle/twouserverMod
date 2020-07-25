@@ -1,0 +1,11 @@
+{
+    "itemName" : "packnoodles",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "packageofnoodles.png",
+    "description" : "Запечатанная коробка лапши, быстро заваривается.",
+    "shortdescription" : "Упаковка лапши",
+    "itemTags" : [ "reagent" ]
+  }
+  

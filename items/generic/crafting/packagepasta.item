@@ -1,0 +1,11 @@
+{
+    "itemName" : "packpasta",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "packageofpasta.png",
+    "description" : "Запечатанная коробка макарон, можно сварить.",
+    "shortdescription" : "Упаковка макарон",
+    "itemTags" : [ "reagent" ]
+  }
+  

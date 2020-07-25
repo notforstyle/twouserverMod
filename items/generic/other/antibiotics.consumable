@@ -1,0 +1,21 @@
+{
+    "itemName" : "antibiotics",
+    "rarity" : "Common",
+    "price" : 100,
+    "category" : "medicine",
+    "inventoryIcon" : "antibiotics.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;8;9?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;02000501=515A7F01;03000201=4C2C1D;03000301=6A4A44;03000401=685031;03000501=583F1B;03000601=493125;03000701=404040;04000201=4C2C1D;04000301=4C2C1D;04000401=4C2C1D;04000501=4C2C1D;04000601=533A2C;04000701=6B675C;05000201=4C2C1D;05000301=63584C;05000401=6B675C;05000501=5E4E41;05000601=493125;05000701=404040;06000201=4C2C1D;06000301=63584C;06000401=6B675C;06000501=5E4E41;06000601=533A2C;06000701=6B675C;07000501=AF4E0001?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Пилюли нейтральных цветов.",
+    "shortdescription" : "Антибиотики",
+    "effects" : [ [
+        {
+          "effect" : "salveheal"
+        }
+      ] ],
+    "emote" : "",
+    "emitters" : [ "stimuse" ],
+    "blockingEffects" : [
+      "redstim"
+    ]
+  }
+  

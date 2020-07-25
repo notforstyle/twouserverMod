@@ -1,0 +1,41 @@
+{
+    "objectName" : "medtable",
+    "colonyTags" : ["crafting"],
+    "printable" : true,
+    "price" : 0,
+    "rarity" : "Uncommon",
+    "interactAction" : "OpenCraftingInterface",
+    "interactData" : {
+      "config" : "/interface/windowconfig/craftingmedical.config",
+      "filter" : [ "medtable" ]
+    },
+    "description" : ". . .",
+    "shortdescription" : "^orange;Medicine Table^white;",
+    "createdBy" : "notforstyle",
+    "race" : "generic",
+    "category" : "crafting",
+  
+    "apexDescription" : "A healthy campfire. I could cook some food using it.",
+    "avianDescription" : "A campfire. It's useful for very basic cooking.",
+    "floranDescription" : "Floran hate flames, but likesss to cook. Cooking leadss to eating.",
+    "glitchDescription" : "Informed. Heating meat with fire is a basic form of cooking.",
+    "humanDescription" : "I've always enjoyed watching the flames of a campfire dance.",
+    "hylotlDescription" : "A campfire, I enjoy the simplicity of flame-cooked food.",
+    "novakidDescription" : "A toasty campfire for cookin'. What more d'ya need?",
+  
+    "inventoryIcon" : "medtableicon.png",
+    "orientations" : [
+      {
+        "dualImage" : "medtable.png:<color>",
+  
+        "imagePosition" : [-16, 0],
+        "frames" : 1,
+        "animationCycle" : 1.0,
+  
+        "spaceScan" : 0.1,
+        "anchors" : [ "bottom" ]
+  
+      }
+    ]
+  }
+  

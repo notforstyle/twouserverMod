@@ -1,0 +1,11 @@
+{
+    "itemName" : "emptybottle",
+    "price" : 10,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "emptybottle.png",
+    "description" : "Обычная пластиковая бутылка, можно использовать для крафта.",
+    "shortdescription" : "Пластиковая бутылка",
+    "itemTags" : [ "reagent" ]
+  }
+  

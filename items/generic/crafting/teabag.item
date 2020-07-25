@@ -1,0 +1,11 @@
+{
+    "itemName" : "teabag",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "teabag.png",
+    "description" : "Быстро завариваемый чай, пригодится в крафте.",
+    "shortdescription" : "Чайный пакетик",
+    "itemTags" : [ "reagent" ]
+  }
+  
