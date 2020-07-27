@@ -1,6 +1,9 @@
 # twouserverMod
  
 ## items list
+
+MATERIALS
+
 * acteatwou
 * coffeepowdertwou
 * condimenttwou
@@ -21,6 +24,8 @@
 * teabagtwou
 * threadneedletwou
 
+FOOD
+
 * bakedappletwou
 * bottlewatertwou
 * celeryroottwou
@@ -32,6 +37,8 @@
 * oniontwou
 * sandwichtwou
 * teatwou
+
+MEDICAL
 
 * antibioticstwou
 * cottonbandagetwou
