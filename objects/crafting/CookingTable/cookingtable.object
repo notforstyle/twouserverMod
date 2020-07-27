@@ -1,16 +1,16 @@
 {
-  "objectName" : "cookingtable",
+  "objectName" : "cookingtabletwou",
   "colonyTags" : ["cooking"],
-  "printable" : true,
+  "printable" : false,
   "price" : 100,
   "rarity" : "Uncommon",
   "category" : "crafting",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/craftingfood.config",
-    "filter" : [ "twouCraftingFood" ]
+    "config" : "/interface/windowconfig/craftingfoodtwou.config",
+    "filter" : [ "craftingfoodtwou" ]
   },
-  "description" : "Готовь всё что душа желает.",
+  "description" : "Готовь всё что твоя душа пожелает.",
   "shortdescription" : "^orange;Стол для готовки^white;",
   "race" : "generic",
 

@@ -1,13 +1,13 @@
 {
-    "objectName" : "medtable",
+    "objectName" : "medtabletwou",
     "colonyTags" : ["crafting"],
-    "printable" : true,
+    "printable" : false,
     "price" : 0,
     "rarity" : "Uncommon",
     "interactAction" : "OpenCraftingInterface",
     "interactData" : {
       "config" : "/interface/windowconfig/craftingmedical.config",
-      "filter" : [ "twouCraftingMed" ]
+      "filter" : [ "craftingmedtwou" ]
     },
     "description" : ". . .",
     "shortdescription" : "^orange;Medicine Table^white;",
@@ -26,7 +26,7 @@
     "inventoryIcon" : "medtableicon.png",
     "orientations" : [
       {
-        "dualImage" : "medtable.png:<color>",
+        "dualImage" : "medtable.png",
   
         "imagePosition" : [-16, 0],
         "frames" : 1,
