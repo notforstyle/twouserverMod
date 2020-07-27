@@ -50,5 +50,7 @@ MEDICAL
 * scottonbandagetwou
 * surgicalsuturetwou
 
+CRAFT STATION
+
 * cookingtabletwou
 * medtabletwou
