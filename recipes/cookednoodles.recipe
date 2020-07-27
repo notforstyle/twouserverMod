@@ -1,0 +1,10 @@
+{
+    "input" : [
+        { "item" : "packnoodles", "count" : 1 },
+        { "item" : "salt", "count" : 1 }
+      ],
+	"output" : {"item" : "cookednoodles", "count" : 1},
+    "groups" : [ "cookingtable", "twouCraftingFood"],
+    "collectables" : { "cooking" : "cookednoodles" },
+    "duration" : 1
+}

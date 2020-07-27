@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "coffeepowder", "count" : 20 }
+  ],
+  "output" : { "item" : "coffee", "count" : 1 },
+  "groups" : [ "cookingtable", "twouCraftingFood", "crafting"],
+  "collectables" : { "cooking" : "coffee" },
+  "duration" : 1
+}

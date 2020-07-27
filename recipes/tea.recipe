@@ -1,0 +1,9 @@
+{
+	"input" : [
+		{"item" : "driedleaves", "count" : 10}
+	],
+	"output" : {"item" : "tea", "count" : 1},
+    "groups" : [ "cookingtable", "twouCraftingFood"],
+    "collectables" : { "cooking" : "tea" },
+    "duration" : 1
+}

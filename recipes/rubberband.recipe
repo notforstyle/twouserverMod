@@ -3,6 +3,6 @@
 		{"item" : "rubber", "count" : 4}
 	],
 	"output" : {"item" : "rubberband", "count" : 1},
-    "groups" : [ "medtable", "all"],
-    "duration" : 4
+    "groups" : [ "medtable", "twouCraftingMed"],
+    "duration" : 1
 }
