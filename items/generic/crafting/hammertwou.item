@@ -1,0 +1,11 @@
+{
+    "itemName" : "hammertwou",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "hammertwou.png",
+    "description" : "В случае чего, можно кому-то разбить голову. Пригодится для крафта.",
+    "shortdescription" : "Молоток",
+    "itemTags" : [ "reagent" ]
+  }
+  

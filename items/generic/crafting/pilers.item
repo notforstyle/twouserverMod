@@ -1,0 +1,11 @@
+{
+    "itemName" : "pilers",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "pilers.png",
+    "description" : "В случае чего, можно кому-то вырвать зуб. Пригодится для крафта.",
+    "shortdescription" : "Плоскогубцы",
+    "itemTags" : [ "reagent" ]
+  }
+  

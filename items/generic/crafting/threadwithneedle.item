@@ -1,0 +1,11 @@
+{
+    "itemName" : "threadneed",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "threadwithneedle.png",
+    "description" : "Можешь подлатать свою одежду. Пригодится для крафта.",
+    "shortdescription" : "Набор для шитья",
+    "itemTags" : [ "reagent" ]
+  }
+  

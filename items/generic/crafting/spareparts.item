@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon" : "spareparts.png",
-    "description" : "Обычкновенные железки. Понадобятся для крафта.",
+    "description" : "Обычкновенные железки. Пригодится для крафта.",
     "shortdescription" : "Запчасти",
     "itemTags" : [ "reagent" ]
   }

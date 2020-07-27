@@ -1,0 +1,11 @@
+{
+    "itemName" : "coffepowder",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "coffepowder.png",
+    "description" : "Залей кипятком и получишь так себе кофе. Пригодится для крафта.",
+    "shortdescription" : "Кофейный порошок",
+    "itemTags" : [ "reagent" ]
+  }
+  

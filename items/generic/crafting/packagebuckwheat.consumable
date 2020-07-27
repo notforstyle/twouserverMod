@@ -1,0 +1,11 @@
+{
+    "itemName" : "packbuckwheat",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "packagebuckwheat.png",
+    "description" : "Запечатанная коробка гречки, быстро и питательно. Пригодится для крафта.",
+    "shortdescription" : "Упаковка гречки",
+    "itemTags" : [ "reagent" ]
+  }
+  

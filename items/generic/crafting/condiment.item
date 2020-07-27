@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "condiment.png",
-    "description" : "Приправа, сделает блюдо вкуснее и без соли.",
+    "description" : "Приправа, сделает блюдо вкуснее и без соли. Пригодится для крафта.",
     "shortdescription" : "Приправа",
     "itemTags" : [ "reagent" ]
   }

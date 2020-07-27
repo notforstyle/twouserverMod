@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "nails.png",
-    "description" : "Пригодятся для крафта.",
+    "description" : "Обыкновенные гвозди. Пригодится для крафта.",
     "shortdescription" : "Гвозди",
     "itemTags" : [ "reagent" ]
   }

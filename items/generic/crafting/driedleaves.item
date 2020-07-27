@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "driedleaves.png",
-    "description" : "Сушёные чайные листья, может пригодится для чая.",
+    "description" : "Сушёные чайные листья. Пригодится для крафта.",
     "shortdescription" : "Сушёные чайные листья",
     "itemTags" : [ "reagent" ]
   }

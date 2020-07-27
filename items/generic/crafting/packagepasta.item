@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "packageofpasta.png",
-    "description" : "Запечатанная коробка макарон, можно сварить.",
+    "description" : "Запечатанная коробка макарон, можно сварить. Пригодится для крафта.",
     "shortdescription" : "Упаковка макарон",
     "itemTags" : [ "reagent" ]
   }

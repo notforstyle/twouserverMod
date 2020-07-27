@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "electricalparts.png",
-    "description" : "220 вольт.",
+    "description" : "220 вольт. Пригодится для крафта.",
     "shortdescription" : "Электрозапчасти",
     "itemTags" : [ "reagent" ]
   }

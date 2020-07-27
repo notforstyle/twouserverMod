@@ -4,7 +4,7 @@
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "screwdriver.png",
-    "description" : "Полезный инструмент в доме. Пригодится в крафте.",
+    "description" : "Полезный инструмент в доме. Пригодится для крафта.",
     "shortdescription" : "Отвёртка",
     "itemTags" : [ "reagent" ]
   }
