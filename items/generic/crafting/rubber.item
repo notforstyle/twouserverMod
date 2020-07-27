@@ -1,10 +1,10 @@
 {
-    "itemName" : "rubber",
+    "itemName" : "rubbertwou",
     "price" : 0,
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "rubber.png",
-    "description" : "Обычная резина. , может подходить для крафта",
+    "description" : "Обычная резина. Пригодится для крафта.",
     "shortdescription" : "Резина",
     "itemTags" : [ "reagent" ]
   }

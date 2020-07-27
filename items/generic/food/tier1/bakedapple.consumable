@@ -1,5 +1,5 @@
 {
-    "itemName" : "bakedapple",
+    "itemName" : "bakedappletwou",
     "rarity" : "Common",
     "price" : 50,
     "category" : "preparedFood",
@@ -10,7 +10,7 @@
     "effects" : [ [
       {
           "effect" : "maxhealthscalingboostfood",
-          "duration" : 5
+          "duration" : 1
       }
     ] ],
     "foodValue" : 10,

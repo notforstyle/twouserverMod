@@ -1,10 +1,10 @@
 {
-    "itemName" : "salt",
+    "itemName" : "salttwou",
     "price" : 0,
     "rarity" : "Common",
     "category" : "craftingMaterial",
     "inventoryIcon": "salt.png",
-    "description" : "Без неё вряд-ли выйдет сварить что-то вкусное.",
+    "description" : "Без неё вряд-ли выйдет сварить что-то вкусное. Пригодится для крафта.",
     "shortdescription" : "Соль",
     "itemTags" : [ "reagent" ]
   }
