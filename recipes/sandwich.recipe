@@ -1,11 +1,10 @@
 {
     "input" : [
         { "item" : "bread", "count" : 1 },
-        { "item" : "sausage", "count" : 2 },
+        { "item" : "sausagetwou", "count" : 2 },
         { "item" : "cheese", "count" : 2}
       ],
-	"output" : {"item" : "sandwich", "count" : 1},
-    "groups" : [ "cookingtable", "twouCraftingFood"],
-    "collectables" : { "cooking" : "sandwich" },
+	"output" : {"item" : "sandwichtwou", "count" : 1},
+    "groups" : ["craftingfoodtwou", "mains", "all"],
     "duration" : 1
 }

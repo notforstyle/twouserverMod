@@ -3,8 +3,7 @@
         { "item" : "redapple", "count" : 1 },
         { "item" : "sugar", "count" : 1 }
       ],
-	"output" : {"item" : "bakedapple", "count" : 1},
-    "groups" : [ "cookingtable", "twouCraftingFood", "crafting"],
-    "collectables" : { "cooking" : "bakedapple" },
+	"output" : {"item" : "bakedappletwou", "count" : 1},
+    "groups" : ["craftingfoodtwou", "mains", "all"],
     "duration" : 1
 }

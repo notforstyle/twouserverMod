@@ -1,9 +1,8 @@
 {
 	"input" : [
-		{"item" : "driedleaves", "count" : 10}
+		{"item" : "driedleavestwou", "count" : 10}
 	],
-	"output" : {"item" : "tea", "count" : 1},
-    "groups" : [ "cookingtable", "twouCraftingFood"],
-    "collectables" : { "cooking" : "tea" },
+	"output" : {"item" : "teatwou", "count" : 1},
+    "groups" : ["craftingfoodtwou", "mains", "all"],
     "duration" : 1
 }

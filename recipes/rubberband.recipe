@@ -1,8 +1,8 @@
 {
 	"input" : [
-		{"item" : "rubber", "count" : 4}
+		{"item" : "rubbertwou", "count" : 4}
 	],
-	"output" : {"item" : "rubberband", "count" : 1},
-    "groups" : [ "medtable", "twouCraftingMed"],
+	"output" : {"item" : "rubberbandtwou", "count" : 1},
+    "groups" : ["craftingmedtwou", "healing", "all"],
     "duration" : 1
 }

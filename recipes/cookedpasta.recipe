@@ -1,10 +1,9 @@
 {
     "input" : [
-        { "item" : "packpasta", "count" : 1 },
-        { "item" : "salt", "count" : 1 }
+        { "item" : "packpastatwou", "count" : 1 },
+        { "item" : "salttwou", "count" : 1 }
       ],
-	"output" : {"item" : "cookedpasta", "count" : 1},
-	"groups" : [ "cookingtable", "twouCraftingFood"],
-	"collectables" : { "cooking" : "cookedpasta" },
+	"output" : {"item" : "cookedpastatwou", "count" : 1},
+	"groups" : ["craftingfoodtwou", "mains", "all"],
     "duration" : 1
 }
