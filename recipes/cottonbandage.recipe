@@ -1,0 +1,8 @@
+{
+	"input" : [
+		{"item" : "cottontwou", "count" : 3}
+	],
+	"output" : {"item" : "cottonbandagetwou", "count" : 1},
+    "groups" : ["craftingmedtwou", "healing", "all"],
+    "duration" : 1
+}

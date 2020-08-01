@@ -1,0 +1,8 @@
+{
+	"input" : [
+		{"item" : "syntheticmaterial", "count" : 3}
+	],
+	"output" : {"item" : "elastbandagetwou", "count" : 1},
+    "groups" : ["craftingmedtwou", "healing", "all"],
+    "duration" : 1
+}

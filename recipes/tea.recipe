@@ -1,6 +1,7 @@
 {
 	"input" : [
-		{"item" : "driedleavestwou", "count" : 10}
+		{"item" : "driedleavestwou", "count" : 10},
+		{"item" : "bottlewatertwou", "count": 1}
 	],
 	"output" : {"item" : "teatwou", "count" : 1},
     "groups" : ["craftingfoodtwou", "mains", "all"],

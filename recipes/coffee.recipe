@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "coffeepowdertwou", "count" : 20 }
+    { "item" : "coffeepowdertwou", "count" : 20 },
+    { "item" : "bottlewatertwou", "count": 1}
   ],
   "output" : { "item" : "coffee", "count" : 1 },
   "groups" : ["craftingfoodtwou", "mains", "all"],

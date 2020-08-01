@@ -1,0 +1,8 @@
+{
+    "input" : [
+        { "item" : "redapple", "count" : 1 }
+      ],
+	"output" : {"item" : "driedslicestwou", "count" : 1},
+    "groups" : ["craftingfoodtwou", "mains", "all"],
+    "duration" : 1
+}
