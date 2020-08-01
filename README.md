@@ -24,6 +24,8 @@ MATERIALS
 * teabagtwou
 * threadneedletwou
 
+* cottontwou
+
 FOOD
 
 * bakedappletwou
@@ -38,6 +40,13 @@ FOOD
 * sandwichtwou
 * teatwou
 
+* cannedfood1twou
+* cannedfood2twou
+* redmulldrinktwou
+* gelldrinktwou
+* berndrinktwou
+
+
 MEDICAL
 
 * antibioticstwou
@@ -49,6 +58,8 @@ MEDICAL
 * salvetwou
 * scottonbandagetwou
 * surgicalsuturetwou
+
+* coldpillstwou
 
 CRAFT STATION
 
