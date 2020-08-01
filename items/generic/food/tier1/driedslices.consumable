@@ -1,0 +1,27 @@
+{
+    "itemName" : "driedslicestwou",
+    "rarity" : "Common",
+    "price" : 50,
+    "category" : "preparedFood",
+    "inventoryIcon" : "driedslices.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;16;16?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;04000701=771C1C;04000801=771C1C;05000601=771C1C;05000701=F39B3F;05000801=F39B3F;06000501=771C1C;06000601=F39B3F;06000701=F39B3F;07000501=771C1C;07000601=F39B3F;08000701=F39B3F;08000801=771C1C;09000701=F39B3F;09000801=F39B3F;10000801=F39B3F;11000701=F39B3F;11000801=F39B3F;12000701=F39B3F;12000801=771C1C?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;05000401=F39B3F;05000501=771C1C;06000301=F39B3F;06000401=F39B3F;06000501=771C1C;07000201=F39B3F;07000301=F39B3F;07000401=771C1C;08000201=771C1C;08000301=771C1C;09000101=771C1C;10000101=771C1C;11000101=771C1C?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Та ещё вкусняшка.",
+    "shortdescription" : "Жареное яблоко",
+    "effects" : [ [
+      {
+          "effect" : "foodpoisontwou",
+          "duration" : 120
+      }
+    ] ],
+    "foodValue" : 10,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 10,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 1.0,
+    "blockingEffects" : [
+      "wellfed"
+    ],
+    "learnBlueprintsOnPickup" : [ "toast" ]
+  }
+  

@@ -9,7 +9,8 @@
     "shortdescription" : "Антибиотики",
     "effects" : [ [
         {
-          "effect" : "salveheal"
+          "effect" : "poisonblock",
+          "duration" : 15
         }
       ] ],
     "emote" : "",

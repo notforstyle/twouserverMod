@@ -1,0 +1,22 @@
+{
+    "itemName" : "coldpillstwou",
+    "rarity" : "Common",
+    "price" : 100,
+    "category" : "medicine",
+    "inventoryIcon" : "coldpills.png",
+    "directives" : "?replace;fff0=fff?scalenearest=1?crop=0;0;11;11?blendmult=/objects/outpost/customsign/signplaceholder.png;0;0?replace;01000401=7F7F7F;01000501=7F7F7F;02000301=7F7F7F;02000401=999;02000501=999;02000601=7F7F7F;03000201=7F7F7F;03000301=999;03000401=999;03000501=AFAFAF;03000601=999;03000701=7F7F7F;04000101=7F7F7F;04000201=999;04000301=999;04000401=999;04000501=999;04000601=999;04000701=AFAFAF;04000801=7F7F7F;05000201=7F7F7F;05000301=AFAFAF;05000401=999;05000501=999;05000601=999;05000701=999;05000801=999;06000301=7F7F7F;06000401=999;06000501=AFAFAF;06000601=999;06000701=999;06000801=AFAFAF;07000401=7F7F7F;07000501=999;07000601=999;07000701=999;07000801=999;08000501=7F7F7F;08000601=AFAFAF;08000701=999;08000801=999;09000601=7F7F7F;09000701=999;09000801=999;10000701=7F7F7F;10000801=AFAFAF;11000801=7F7F7F?fade;80ff80;0.0001518?blendmult=/objects/outpost/customsign/signplaceholder.png;0;-8?replace;05000101=7F7F7F;06000101=999;06000201=7F7F7F;07000101=999;07000201=999;07000301=7F7F7F;08000101=999;08000201=AFAFAF;08000301=7F7F7F;09000101=999;09000201=999;09000301=7F7F7F;10000101=999;10000201=7F7F7F;11000101=7F7F7F?fade;80ff80;0.0001518?replace;fff=0000",
+    "description" : "Разноцветные пилюли. Ослабляют иммунитет.",
+    "shortdescription" : "Таблетки от простуды",
+    "effects" : [ [
+        {
+          "effect" : "poisonblock",
+          "duration" : 15
+        }
+      ] ],
+    "emote" : "",
+    "emitters" : [ "stimuse" ],
+    "blockingEffects" : [
+      "redstim"
+    ]
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "itemName" : "redmulldrinktwou",
+    "rarity" : "Common",
+    "price" : 40,
+    "category" : "drink",
+    "inventoryIcon" : "energydrink1.png",
+    "description" : "Напиток освежающий и придающий энергию.",
+    "shortdescription" : "Энергетик RedMull",
+    "maxStack" : 4,
+    "effects" : [ [
+      {
+          "effect" : "maxenergyscalingboostfood",
+          "duration" : 1
+      }
+    ] ],
+    "emitters" : [ "drinking" ]
+  }
+  

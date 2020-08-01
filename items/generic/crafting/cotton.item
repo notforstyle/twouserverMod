@@ -1,0 +1,11 @@
+{
+    "itemName" : "cottontwou",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "cotton.png",
+    "description" : "Кусок марли. Пригодится для крафта.",
+    "shortdescription" : "Марля",
+    "itemTags" : [ "reagent" ]
+  }
+  

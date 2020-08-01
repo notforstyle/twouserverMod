@@ -1,0 +1,19 @@
+{
+    "itemName" : "cannedfood2twou",
+    "rarity" : "Common",
+    "price" : 40,
+    "category" : "food",
+    "inventoryIcon" : "cannedfood2.png",
+    "description" : "Долго сохраняет свой срок годности, очень питательно.",
+    "shortdescription" : "Консервированная фасоль",
+    "foodValue" : 50,
+    "tooltipKind" : "food",
+    "builder" : "/items/buildscripts/buildfood.lua",
+    "maxStack" : 1,
+    "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+    "rottingMultiplier" : 10,
+    "blockingEffects" : [
+      "wellfed"
+    ]
+  }
+  

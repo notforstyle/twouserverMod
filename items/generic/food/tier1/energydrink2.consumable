@@ -1,0 +1,18 @@
+{
+    "itemName" : "berndrinktwou",
+    "rarity" : "Common",
+    "price" : 40,
+    "category" : "drink",
+    "inventoryIcon" : "energydrink2.png",
+    "description" : "Напиток освежающий и придающий энергию.",
+    "shortdescription" : "Энергетик Bern",
+    "maxStack" : 4,
+    "effects" : [ [
+      {
+          "effect" : "maxenergyscalingboostfood",
+          "duration" : 1
+      }
+    ] ],
+    "emitters" : [ "drinking" ]
+  }
+  
