@@ -1,0 +1,14 @@
+{
+  "name" : "foodpoisontwou",
+  "blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 120,
+
+  "scripts" : [
+    "poisoningtwou.lua"
+  ],
+
+  "label" : "Отравление",
+  "icon" : "/interface/statuses/poison.png"
+}
