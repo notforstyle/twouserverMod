@@ -1,0 +1,11 @@
+{
+    "itemName" : "smokingfilters1twou",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "filtercig1.png",
+    "description" : "Дешевые фильтры для самокруток. Пригодится для крафта.",
+    "shortdescription" : "Фильтры для самокруток",
+    "itemTags" : [ "reagent" ]
+  }
+  

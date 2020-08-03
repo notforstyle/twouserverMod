@@ -1,0 +1,11 @@
+{
+    "itemName" : "tobaccotwou",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "tabak.png",
+    "description" : "Табак для самокруток. Пригодится для крафта.",
+    "shortdescription" : "Табак",
+    "itemTags" : [ "reagent" ]
+  }
+  

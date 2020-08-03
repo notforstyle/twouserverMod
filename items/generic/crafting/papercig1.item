@@ -1,0 +1,11 @@
+{
+    "itemName" : "smokingpapers1twou",
+    "price" : 0,
+    "rarity" : "Common",
+    "category" : "craftingMaterial",
+    "inventoryIcon": "papercig1.png",
+    "description" : "Дешевые бумажки для самокруток. Пригодится для крафта.",
+    "shortdescription" : "Бумажки для самокруток",
+    "itemTags" : [ "reagent" ]
+  }
+  
