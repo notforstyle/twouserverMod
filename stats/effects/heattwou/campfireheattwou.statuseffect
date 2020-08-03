@@ -1,0 +1,10 @@
+{
+  "name" : "campfireheattwou",
+  "blockingStat" : "wet",
+
+  "effectConfig" : {},
+  "defaultDuration" : 120,
+
+  "label" : "Повышение температуры",
+  "icon" : "/interface/statuses/biomeheat.png"
+}

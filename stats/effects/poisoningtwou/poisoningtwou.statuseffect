@@ -5,6 +5,8 @@
   "effectConfig" : {},
   "defaultDuration" : 120,
 
+  "animationConfig" : "poisoningtwou.animation",
+
   "scripts" : [
     "poisoningtwou.lua"
   ],
